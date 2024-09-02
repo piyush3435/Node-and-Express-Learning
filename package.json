@@ -1,0 +1,15 @@
+{
+  "name": "firstcode",
+  "version": "1.0.0",
+  "description": "This is first",
+  "main": "9 - npm Command.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piyush Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "lodash": "^4.17.21"
+  }
+}
